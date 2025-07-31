@@ -111,13 +111,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **RAVI SANKAR REDDY BOVILLA **. I’m  passionate about data analyst and data engineering
 
----
-
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi there! I'm **RAVI SANKAR REDDY BOVILLA **. I’m  passionate about data analyst and data engineering
