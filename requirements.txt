@@ -1,0 +1,24 @@
+# requirements.txt
+
+## 🛠️ Project Tools & Environment
+
+This project uses the following tools and platforms:
+
+### Database & Querying
+- SQL Server Express (2019 or later)
+  - Download: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+- SQL Server Management Studio (SSMS)
+  - GUI for database development
+  - Download: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+
+### Data & File Formats
+- CSV files (input ERP & CRM datasets)
+
+### Version Control
+- Git & GitHub
+  - GitHub Repo: `https://github.com/your-repo`
+
+### Documentation
+- Draw.io – for architecture and data flow diagrams
+- Notion – for task management and notes
+
